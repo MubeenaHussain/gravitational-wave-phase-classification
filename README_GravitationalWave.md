@@ -247,10 +247,10 @@ data = pd.read_csv(url, delim_whitespace=True, comment='#', names=['time', 'Re_h
 ## 👩‍💻 Author
 
 **Mubeena Hussain**
-MSc Statistics — University of Kerala
+MSc Statistics 
 📧 mubeenahussain1205@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/mubeenahussain)
-🐙 [GitHub](https://github.com/YOUR-USERNAME)
+🔗 [LinkedIn](www.linkedin.com/in/mubeena-hussain-a357b920b)
+)
 
 ---
 
